@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15b13f4e-7626-4851-877d-5e3dfb61c722" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/1/Ejercicio10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/1/Ejercicio11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/1/Ejercicio5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/1/Ejercicio6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/2/Ejercicio10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/2/Ejercicio11.py" afterDir="false" />
+    <list default="true" id="15b13f4e-7626-4851-877d-5e3dfb61c722" name="Changes" comment="Ejercicio python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/2/Ejercicio11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/2/Ejercicio11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +77,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666797242054</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio python">
+      <created>1669220565029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669220565029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio python" />
   </component>
 </project>
