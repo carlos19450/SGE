@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="15b13f4e-7626-4851-877d-5e3dfb61c722" name="Changes" comment="Ejercicio python">
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/3/Ejercicio10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/3/Ejercicio6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/3/Ejercicio9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/4/Ejercicio12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/4/Ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/4/Ejercicio9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/5/Ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/5/Ejercicio10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/5/Ejercicio11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/5/Ejercicio13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/5/Ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/5/Ejercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/5/Ejercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/5/Ejercicio5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/5/Ejercicio6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/5/Ejercicio7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/5/Ejercicio8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/5/Ejercicio9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/2/Ejercicio11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tema1/EjerciciosBasicos/2/Ejercicio11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,15 +49,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/carpui/IdeaProjects/SGE/Tema1/EjerciciosBasicos/1/Ejercicio5.py&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Tema1/EjerciciosBasicos" />
@@ -53,12 +74,13 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tema1/EjerciciosBasicos" />
+      <option name="SDK_HOME" value="/usr/bin/python3.8" />
+      <option name="SDK_NAME" value="Python 3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tema1/EjerciciosBasicos/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tema1/1/Ejercicio5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tema1/EjerciciosBasicos/1/Ejercicio5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
